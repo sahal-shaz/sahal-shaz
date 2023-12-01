@@ -2,7 +2,7 @@
 <h3 align="center"> I believe coding is fundamental to literacy in the future | FULL STACK DEVELOPER</h3>
 
 # 💫 About Me:
-🔭 I’m currently doing internship as a Python Full Stack Developer<br><br><br>👨‍💻 All of my projects are available at  <br><br>💬 Ask me about PYHON,,DJANGO,HTML,SQL,CSS,BOOTSTRAP<br><br>📫 How to reach me sahalshaz111@gmail.com<br><br>⚡ Fun fact I think I always No error coder
+🔭 I’m currently doing internship as a Python Full Stack Developer<br><br><br>👨‍💻 All of my projects are available at  <br><br>💬 Ask me about PYHON,,DJANGO,HTML,JAVASCRIPT,SQL,CSS,BOOTSTRAP<br><br>📫 How to reach me sahalshaz111@gmail.com<br><br>⚡ Fun fact I think I always No error coder
 
 
 ## 🌐 Socials:
